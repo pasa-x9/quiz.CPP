@@ -24,6 +24,6 @@ A simple console-based quiz game built using the C programming language. This pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/quiz-c.git
-   cd quiz-c
-gcc quiz.c -o quiz
+   git clone https://github.com/pasa-x9/quiz-cpp.git
+   cd quiz-cpp
+gcc quiz.cpp -o quiz

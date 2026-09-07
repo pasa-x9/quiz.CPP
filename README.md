@@ -1,6 +1,6 @@
 # 🎮 Quiz Game in C
 
-A simple console-based quiz game built using the C programming language. This project allows users to test their knowledge through a series of multiple-choice questions.
+A simple console-based quiz game built using the C programming language. This project allows users to test their general knowledge through a series of multiple-choice questions.
 
 ## 🧠 Features
 
